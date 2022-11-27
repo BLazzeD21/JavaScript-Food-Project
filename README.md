@@ -1,1 +1,1 @@
-# JavaScript-Food-Project
+# JavaScript food project
